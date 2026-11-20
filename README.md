@@ -99,9 +99,9 @@ Figures are based on 5,881 identified customers and £17.37M in positive-quantit
 
 ## 🗂️ Data Source
 
-📚 **Online Retail II**, from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/), donated by Daqing Chen. The raw dataset contains 1,067,371 transaction rows across two sheets (2009–2010 and 2010–2011) with invoices, stock codes, descriptions, quantities, unit prices, customer IDs, and countries.
+📚 **Online Retail I & II** are the raw dataset contains 1,067,371 transaction rows across two sheets (2009–2010 and 2010–2011) with invoices, stock codes, descriptions, quantities, unit prices, customer IDs, and countries.
 
-🔒 The raw file is not redistributed in this repository. Download it from the UCI repository and place it in `data/raw/` before running the pipeline.
+🔒 The raw file is redistributed in this repository. Download it from this repository and place it in `data/raw/` before running the pipeline.
 
 ## ⚙️ Methodology
 
